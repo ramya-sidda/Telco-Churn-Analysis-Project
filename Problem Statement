@@ -1,0 +1,13 @@
+A telecom company is experiencing customer loss due to customers switching to competitors. Customer churn directly impacts revenue and increases the cost of acquiring new customers. The company wants to identify the factors influencing customer churn and predict which customers are likely to leave in the future.
+
+The objective of this project is to analyze customer demographics, service subscriptions, billing information, and account details to uncover churn patterns. Using exploratory data analysis (EDA) and machine learning techniques, the project aims to build a predictive model that can classify customers as likely to churn or not churn. The insights generated will help the company develop targeted retention strategies and improve customer satisfaction.
+
+Objectives
+Analyze customer data to understand churn behavior.
+Identify key factors affecting customer retention.
+Perform data cleaning and exploratory data analysis.
+Build and evaluate a machine learning model to predict churn.
+Provide business recommendations to reduce customer churn and improve retention.
+Expected Outcome
+
+A predictive system that identifies high-risk customers and helps the telecom company take proactive actions to retain them, thereby reducing revenue loss and increasing customer loyalty.
